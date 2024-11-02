@@ -1,0 +1,5 @@
+Python es un lenguaje de programación.
+Es ampliamente utilizado en ciencia de datos.
+También es popular para desarrollo web y automatización.
+Existen muchas bibliotecas que facilitan el trabajo.
+Es un lenguaje sencillo de aprender.

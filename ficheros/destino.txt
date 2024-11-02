@@ -1,0 +1,4 @@
+Claro Pay, un servicio de billetera digital fue desarrollado por América Móvil, 
+la empresa matriz de Claro, uno de los mayores proveedores de telecomunicaciones de América Latina. 
+El servicio tiene como objetivo brindar una solución integral 
+para gestionar transacciones financieras a través de una aplicación móvil.
